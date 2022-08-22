@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+    text-align: center;
+}
+th{
+    padding: 20px;
+    border: none;
+    font-size: large;
+}
+td{
+    padding: 25px;
+    font-size: large;
+}
+.headline{
+    background-color: darkgray;
+}
+.first-head{
+    background-color: aliceblue;
+}
+.second-head{
+    background-color: moccasin;
+}
+.third-head{
+    background-color: aliceblue;
+}

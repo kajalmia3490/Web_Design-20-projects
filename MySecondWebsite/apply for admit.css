@@ -1,0 +1,28 @@
+body{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+}
+.a{
+    margin: 1% 20%;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+
+    background-color: lightgreen;
+}
+footer{
+    color: red;
+    background-color: wheat;
+    text-align: center;
+    padding: 2%;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+.w{
+    color: white;
+    background-color: black;
+}

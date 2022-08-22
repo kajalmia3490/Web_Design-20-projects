@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+header ul li{
+    float: right;
+    overflow: hidden;
+}
+li a{
+    color: black;
+    font-size: 20px;
+    font-weight: 700px;
+    margin: 20px;
+}
+.google-font{
+    font-size: 100px;
+    text-align: center;
+    margin: 150px;
+    margin-bottom: 30px;
+}
+input{
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 400px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 300px;
+    border-radius: 20px;
+}
+.pen{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 22px;
+    color: white;
+    background-color: black;
+    padding: 17px;
+    border-radius: 50%;
+}
+footer .photo{
+    text-decoration: underline;
+    margin: 20px;
+    margin-top: 200px;
+}
+footer .add{
+    margin: 650px;
+    margin-bottom: 0px;
+    background-color: lavender;
+    color: black;
+    border: 0px solid black;
+    padding: 20px;
+    font-size: 50px;
+    cursor: pointer;
+}
+footer .photo a{
+    color: black;
+}
+.fa-pen{
+    cursor: pointer;
+}
+li a:hover{
+    text-decoration: underline;
+}
+.add:hover{
+    background-color: gray;
+}

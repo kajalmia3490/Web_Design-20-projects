@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background-image: url('images/pexels-david-besh-884788.jpg');
+    background-size: cover;
+}
+
+.monthsName{
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 700px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+.calender{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 700px;
+    margin-right: 200px;
+    color: white;
+    display: grid;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    grid-template-columns: repeat(7, 1fr);
+}
+.date{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 50%;
+}
+.holiday{
+    background-color: red;
+    color: white;
+}
+.daysf{
+    color: red;
+}
+.day{
+    font-weight: bold;
+}

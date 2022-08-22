@@ -1,0 +1,31 @@
+.d{
+    font-weight: bold;
+}
+.f{
+    font-size: large;
+    font-weight: bold;
+}
+.a{
+    text-align: justify;
+    background-color: bisque;
+    padding: 1%;
+}
+.c{
+    font-size: large;
+    font-weight: bold;
+}
+.b{
+    background-color: bisque;
+    text-align: justify;
+    padding: 1%;
+}
+footer{
+    color: red;
+    background-color: wheat;
+    text-align: center;
+    padding: 2%;
+}
+a{
+    text-decoration: none;
+    color: red;
+}

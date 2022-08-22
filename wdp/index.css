@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+header{
+
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.logoName h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(224, 63, 35);
+}
+ul li{
+    display: inline-flex;
+    margin-left: 20px;
+    font-size: 20px;
+}
+ul li a{
+    color: black;
+}
+ul li a:hover{
+    color: tomato;
+}
+.twodimensional{
+    margin: 0px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.heading{
+    font-size: 45px;
+    margin-top: 120px;
+}
+span{
+    font-size: 15px;
+}
+h6{
+    font-size: large;
+}
+.btn{
+    color: white;
+    background-color: tomato;
+    border: none;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+.btn:hover{
+    background-color: green;
+}

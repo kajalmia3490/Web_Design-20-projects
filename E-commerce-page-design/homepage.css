@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.none{
+    color: black;
+}
+.none1{
+    color: black;
+}
+.right-header {
+    display: flex;
+    list-style-type: none;
+}
+.dropdown{
+    display: none;
+    position: absolute;
+}
+.dropdown a:hover{
+    display: block;
+}
+.two:hover .dropdown{
+    display: block;
+    color: tomato;
+    padding: 5px;
+    color: black;
+    background-color: moccasin;
+}
+.color1{
+    color: black;
+}
+.color2{
+    color: black;
+}
+.drop{
+    color: black;
+}
+.second-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: black;
+}
+.left-side{
+    color: white;
+    font-size: 20px;
+}
+.right-side{
+    color: white;
+}
+.usd{
+    border: none;
+}
+.search{
+    background-color: lavender;
+    padding: 8px;
+    padding-right: 80px;
+    margin-right: 20px;
+}
+.all{
+    padding: 7px;
+    padding: 7px 25px;
+    background-color: lavender;
+}
+.fa-mendeley{
+    font-size: 40px;
+}
+.fa-heart{
+    margin-left: 200px;
+    font-size: 30px;
+}
+.fa-bell{
+    font-size: 30px;
+}
+ul li{
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    color: black;
+    margin: 20px;
+}
+ul{
+    text-align: center;
+}
+.drop-element1{
+    display: none;
+    position: absolute;
+}
+.drop-element1 a{
+    display: block;
+}
+.dropdown1:hover .drop-element1{
+    display: block;
+    color: black;
+    background-color: moccasin;
+}
+li a{
+    color: black;
+}

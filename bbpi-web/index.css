@@ -1,0 +1,180 @@
+body{
+    background-color: gold
+}
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.bbpi .fa-thin{
+    color: white;
+}
+header .first{
+    display: flex;
+    justify-content: space-between;
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+}
+.first h4{
+    display: flex;
+}
+.bbpi a{
+    color: white;
+    padding: 8px;
+}
+.bbpi a:hover{
+    color: yellow;
+}
+.acc{
+    color: white;
+    background-color: tomato;
+    padding: 7.5px;
+    border: none;
+    border-radius: 10px;
+}
+.acc:hover{
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.sep{
+    color: white;
+    border: none;
+    background-color: tomato;
+    padding: 7.5px;
+}
+.sep:hover{
+    background-color: white;
+    color: black;
+    padding: 7.5px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+a{
+    color: white;
+}
+header ul li{
+    color: white;
+    background-color: teal;
+    display: flex;
+    float: left;
+    padding: 10px 94.3px;
+    display: inline-block;
+}
+.fa-book-open{
+    color: white;
+}
+.one:hover a{
+    color: black;
+}
+.two:hover a{
+    color: black;
+}
+.three:hover a{
+    color: black;
+}
+.four:hover a{
+    color: black;
+}
+.five:hover a{
+    color: black;;
+}
+ul li a{
+    color: white;
+    padding: 10px;
+    display: inline-block;
+}
+ul li:hover{
+    background-color: white;
+}
+.dropdown{
+    background-color: white;
+    display: none;
+    position: absolute;
+}
+.dropdown a{
+    display: block;
+    color: black;
+}
+.dropdown a:hover{
+    background-color: moccasin;
+}
+.two:hover .dropdown{
+    display: block;
+}
+.dropdown-section{
+    display: none;
+    position: absolute;
+}
+.four:hover .dropdown-section{
+    display: block;
+    background-color: aliceblue;
+}
+.dropdown-section a:hover{
+    background-color: moccasin;
+}
+.dropdown-section a{
+    display: block;
+}
+section img{
+    float: left;
+    margin: 0;
+    padding: 0 100px;
+}
+section .left-section .img1{
+    margin: 0;
+    padding: 14.5px;
+    width: 150px;
+    border-radius:150px;
+}
+section .right-section .img3{
+    margin-left: 0px;
+    margin-top: 5px;
+    padding: 10px;
+    width: 150px;
+    border-radius: 150px;
+}
+section .middle-section .img2{
+    width: 800px;
+    margin-left: 0px;
+}
+.college{
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+
+}
+.college-name{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: large;
+    color: black;
+    font-weight: bold;
+}
+footer .footer-color{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(2, 46, 46);
+}
+footer .footer-task .icons a i{
+    margin: auto;
+    margin-top: 20px;
+}
+footer .footer-task{
+    padding: 1%;
+    color: white;
+    text-align: justify;
+}
+footer .icons{
+    font-size: 35px;
+    text-align: center;
+}
+.footer-header{
+    color: white;
+    text-align: center;
+}
+
+

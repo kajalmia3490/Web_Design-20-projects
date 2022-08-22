@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+header{
+    text-align: center;
+}
+.learn, .time{
+    font-size: 40px;
+    font-weight: bold;
+}
+.learn{
+    color: red;
+}
+.time{
+    color: green;
+}
+ul li a{
+    display: inline-flex;
+    justify-content: center;
+    margin-top: 30px;
+    padding-left: 40px;
+    color: black;
+    font-size: 16px;
+}
+a:hover{
+    /* color: tomato; */
+    text-decoration: underline;
+}
+.main-section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.image{
+    width: 70%;
+    height: 60%;
+}
+/* .article1{
+    margin-left: 40px;
+} */
+.anounce{
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+.anounce-box{
+    width: 250px;
+    height: 100px;
+    background-color: violet;
+    padding: 10px;
+    margin-left: 40px;
+    text-align: center;
+    border-radius: 20px;
+}
+.right-side{
+    margin-right: 40px;
+}
+.login-side{
+    padding: 20px;
+}
+.email, .password{
+    font-weight: bold;
+}
+input{
+    padding: 5px;
+}
+.forgotten-pass{
+    color: black;
+}
+.forgotten-pass, .create-account{
+    text-decoration: underline;    
+}
+.forgotten-pass:hover{
+    color: blue;
+}
+.login-button{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background-color: black;
+    padding: 10px 60px;
+    border: none;
+    border-radius: 5px;
+}
+.login-button:active{
+    background-color: darkgray;
+}
+footer{
+    width: 100%;
+    height: auto;
+    background: black;
+}
+.some-info{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    margin-left: 40px;
+    width: 250px;
+    height: 200px;
+    background: wheat;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    color: black;
+    padding: 5px;
+}
+.footer-headding{
+    text-align: center;
+}
+.headding{
+    font-weight: bold;
+    text-align: center;
+}

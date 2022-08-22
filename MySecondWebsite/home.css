@@ -1,0 +1,50 @@
+body{
+    background-color:lightgoldenrodyellow;
+}
+.a{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+h5{
+    text-align: right;
+}
+a{
+    color: white;
+    background-color: black;
+    padding: 1%;
+    border-radius: 15px;
+    text-decoration: none;
+    
+}
+.b{
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+}
+.c{
+    margin: auto;
+    width: 60%;
+    height: 20%;
+}
+.d{
+    color: black;
+    background-color: moccasin;
+    text-align: justify;
+    padding: 2%;
+}
+footer{
+    text-align: center;
+    color: red;
+    background-color: white;
+    padding: 1%;
+}
+.v{
+    text-decoration: none;
+    color: red;
+    background-color: white;
+}
+.i{
+    font-size: large;
+    font-weight: bold;
+}

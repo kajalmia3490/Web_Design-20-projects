@@ -1,0 +1,33 @@
+.h{
+    padding: 2%;
+    background-color: moccasin;
+    margin-right: 60%;
+}
+.u{
+    background-color: wheat;
+    padding: 2%;
+    margin-right: 0%;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color: red;
+}
+footer{
+    color: red;
+    background-color: wheat;
+    padding: 2%;
+    text-align: center;
+}
+.p{
+    font-weight: bold;
+}
+.q{
+    font-weight: bold;
+}
+.r{
+    font-weight: bold;
+}
+.s{
+    font-weight: bold;
+}

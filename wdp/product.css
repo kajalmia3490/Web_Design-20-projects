@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+h1{
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.imagesProduct{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    width: 200px;
+    height: 300px;
+}
+h6{
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn{
+    color: white;
+    background-color: brown;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: green;
+}
